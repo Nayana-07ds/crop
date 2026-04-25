@@ -1,0 +1,1 @@
+ TestNG XML report pattern:   **/target/surefire-reports/testng-results.xml
